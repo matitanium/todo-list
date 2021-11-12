@@ -1,0 +1,11 @@
+{
+    "name": "matin/todo",
+    "description": "this is first php project from matin noriyan task todo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Matin\\Todo\\": "src/"
+        }
+    },
+    "require": {}
+}
