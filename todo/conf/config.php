@@ -8,6 +8,6 @@ $DB_conf =
 
     "password" => "",
 
-    "DB_Name" => "matintask"
+    "DB_Name" => "tasks"
 
 ];
